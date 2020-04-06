@@ -16,4 +16,4 @@ Tools Used:
 * Swing (for GUI)
 * Eclipse (IDE)
 
-[screenshot_chess_300px]: https://github.com/Greg-Loren/Chess/blob/master/screenshots/screenshot_chess_300px.png
+[screenshot_chess_300px]: https://github.com/Greg-Loren/2-player-chess/blob/master/screenshots/screenshot_chess_300px.png
